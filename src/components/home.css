@@ -1,0 +1,16 @@
+.menus{
+    display:flex;
+    flex-wrap: wrap;
+}
+.card{
+    width:45%;
+    height:auto;
+    margin:10px;
+    border-radius: 20px;
+    background: #ffffff;
+    box-shadow:  10px 10px 27px #bebebe,
+             -10px -10px 27px #ffffff;
+}
+.card-img-top{
+    border-radius: 20px;
+}
