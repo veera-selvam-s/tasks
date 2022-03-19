@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "tascomp",
+    "site":"tascomp"
     "public": "build",
     "ignore": [
       "firebase.json",
