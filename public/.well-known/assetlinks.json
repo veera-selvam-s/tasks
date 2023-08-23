@@ -1,0 +1,17 @@
+[{
+
+  "relation": ["delegate_permission/common.handle_all_urls"],
+
+  "target": {
+
+    "namespace": "android_app",
+
+    "package_name": "com.example.onboard_animation",
+
+    "sha256_cert_fingerprints":
+
+    ["A1:65:39:79:1F:9B:0F:F2:BF:C4:6F:E8:8B:68:9D:E7:69:69:48:B5:70:13:F7:EC:A2:52:C1:AE:9A:FE:E1:01"]
+
+  }
+
+}]
